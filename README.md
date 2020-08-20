@@ -1,4 +1,5 @@
 # kevcore-wait-game
+<h1>game</h1>
 <!DOCTYPE html>
 <html>
 <head>
